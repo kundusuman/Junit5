@@ -1,0 +1,8 @@
+com\suman\AllTests.class
+com\suman\TestOrderService.class
+com\suman\TranslationEngineDynamicTest.class
+com\suman\JUnit5NestedExampleTest$A.class
+com\suman\StringUtilsTestUnit5.class
+com\suman\PlayOrderFeatureSuite.class
+com\suman\StringUtilsTestUnit5Disabled.class
+com\suman\JUnit5NestedExampleTest.class
